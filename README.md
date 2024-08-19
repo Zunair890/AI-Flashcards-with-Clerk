@@ -1,32 +1,3 @@
-# [Flashcard AI SaaS](https://flashcard-ai-saas.vercel.app/)
-[Demo video](https://www.youtube.com/watch?v=h3deLl9D_Ik)
-
-
-![1](assets/1.png)
-
-
-## Overview
-
-Flashcard AI SaaS is a web application designed to help users create, manage, and review flashcards using advanced AI features. The application leverages AI to generate, customize, and analyze flashcards, making studying more efficient and effective.
-
-## Features
-
-- **AI-Powered Flashcards**: Automatically generate flashcards based on user input and AI suggestions.
-- **Customizable Flashcards**: Create and modify flashcards with personalized content.
-- **Review Modes**: Various review modes including spaced repetition to enhance learning.
-- **Analytics**: Track progress and performance with detailed analytics and insights.
-- **User Authentication**: Secure login and user management.
-
-## Technologies
-
-- **Frontend**: React, Next.js
-- **Backend**: Node.js
-- **AI Integration**: OpenAI API
-- **Database**: Firebase Datastore
-- **Deployment**: Vercel
-- **CI/CD**: Vercel
-- **Authentication**: Clerk
-- **Payment**: Stripe
 
 ## Installation
 
